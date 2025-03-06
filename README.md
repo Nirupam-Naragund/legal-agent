@@ -28,8 +28,8 @@ Before running the project, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/Nirupam-Naragund/legal-agent.git
+cd legal-agent
 ```
 
 ### Step 2: Set Up Environment Variables
